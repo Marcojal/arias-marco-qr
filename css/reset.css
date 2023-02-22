@@ -1,16 +1,15 @@
-@import url();
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
 :root {
-    --color-1: hsl(158, 36%, 37%);/*Dark cyan*/
-    --color-2: hsl(30, 38%, 92%);/*Cream*/
-
-    --color-3: hsl(212, 21%, 14%);/*very Dark blue */
-    --color-4: hsl(228, 12%, 48%);/*dark Grayish Blue*/
-    --color-5: hsl(0, 0%, 100%);/*white  -  HSL= tono, %, %  */
-    --deskpot-width: 1440px;
+    --color-1: hsl(0, 0%, 100%); /*white*/
+    --color-2: hsl(212, 45%, 89%); /*Light gray*/
+    --color-3: hsl(220, 15%, 55%); /*Grayish blue*/
+    --color-4: hsl(218, 44%, 22%);/*Dark blue*/
+    /*--deskpot-width: 1440px;*/
     --max-width: 300px;
 }
 
 * {
     box-sizing: border-box;
+    font-family: 'Outfit',sans-serif;
 }
