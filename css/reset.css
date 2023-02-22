@@ -1,0 +1,16 @@
+@import url();
+
+:root {
+    --color-1: hsl(158, 36%, 37%);/*Dark cyan*/
+    --color-2: hsl(30, 38%, 92%);/*Cream*/
+
+    --color-3: hsl(212, 21%, 14%);/*very Dark blue */
+    --color-4: hsl(228, 12%, 48%);/*dark Grayish Blue*/
+    --color-5: hsl(0, 0%, 100%);/*white  -  HSL= tono, %, %  */
+    --deskpot-width: 1440px;
+    --max-width: 300px;
+}
+
+* {
+    box-sizing: border-box;
+}
