@@ -5,7 +5,7 @@
     --color-2: hsl(212, 45%, 89%); /*Light gray*/
     --color-3: hsl(220, 15%, 55%); /*Grayish blue*/
     --color-4: hsl(218, 44%, 22%);/*Dark blue*/
-    /*--deskpot-width: 1440px;*/
+    --deskpot-width: 1440px;
     --max-width: 300px;
 }
 
